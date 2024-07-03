@@ -1,0 +1,59 @@
+2024 KAIS 여름학교 외부은하와 우주론
+
+1. 김주한 - N-body Simulation
+
+GOTPM
+초기 조건을 새롭게 바꾼다거나
+여러 알고리즘 패키지를 바꿔
+지난 거의 26년동안 업그레이드된 최종 버전
+멀티버스 시뮬레이션을 할 수 있게 하는 코드
+다크에너지 상태 방정식 여러 값들을 연속값들을
+넣어 암흑에너지의 성질에 따라 우주의 중력 진화 우주 거대 구조의 중력진화가
+어떻게 바뀌는지를 관측하기위한 코드
+
+시뮬레이션 코드 제공하여 시뮬레이션 테스트를 직접해보는것이 여름학교 목적.
+1. Halo 찾기
+암흑물질로 이루어진 virial 중력적으로 collapse된 천체를 찾기
+(이런 천체를 찾는 코드가 있음)
+halo로부터 정보를 추출
+2. subhalo 찾기
+
+- 파워스펙트럼, mass function 등등 찾기.
+- 그림 그리는 tool도 함께 제공
+2차원 혹은 3차원 밀도장 그리기 기초 프로그램 돌려보기
+or 파이썬 코드 수정하여 새로운 그림 그려보기
+
+configure
+소프트웨어 패키지에서 필요한 모든 하위 프로젝트들의 버전을 기록해놓은 스크립트
+필요 정보 추출하여 필요 패키지를 설치할 수 있도록 하는 것.
+
+(make clean)
+make
+make install
+-> GOTPM 패키지 설치
+
+fftw
+FFTW(원래 명칭: "Fastest Fourier Transform in the West")는 고성능의 이산 푸리에 변환(Discrete Fourier Transform, DFT)을 계산하기 위한 라이브러리입니다. 이 라이브러리는 C로 작성되었으며, 다양한 플랫폼에서 사용
+
+
+Hardware requiremet
+
+./configure CC=icc CFLAGS=−g MPICC=mpiicc F77=ifort −−enable−mpi −−enable−openmp −−enable−single −−prefix=$HOME/local −−enable−threads
+
+ ./mkpfile.exe params.dat WMAP5
+
+
+**다음주 월요일 발표**
+FoFhalo의 merger tree를 만드는게 최종목표
+특정 halo가 다음스텝에서는 어떤 halo로 merging하는지를
+어떤 step으로 진화하는지를 보는 것이 목표
+
+
+
+
+
+
+
+
+
+

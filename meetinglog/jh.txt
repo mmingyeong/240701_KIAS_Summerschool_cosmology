@@ -1,0 +1,18 @@
+김주한
+
+- GOTPM 실행
+Job 실행 완료 후 Output files를 사용하여
+
+3.5 Homework 
+1. Plot the parallel performance of the GOTPM-mV as a function of the number of cpu cores (total cpu cores = the number of mpi ranks times the number of threads). 
+
+2. Make a movie file from the files of xzslice.*. Be careful of the scale of density for a better view. Sometimes log-scale density would be enough, or some dummy idea leads to a better view.
+
+- HALO AND SUBHALO FINDERS
+
+정동휘
+- 실습에 필요한 패키지 설치 (local)
+cmb, healpy, cosmoMC
+
+손주비
+- light cone (spec Z, Photo Z)

@@ -1,0 +1,11 @@
+CAMB (Code for Anisotropies in the Microwave Background)
+pip install camb [--user]
+HEALPix Hierarchical Equal Area isoLatitude Pixelization
+healpy is a Python package for (HEALPix)
+pip install healpy
+CosmoMC
+https://cosmologist.info/cosmomc/readme.html#Compiling 
+You then need to download and install the program:
+git clone --recursive https://github.com/cmbant/CosmoMC.git
+Change to the CosmoMC directory and run "make"
+To output chains you might want to make a chains subdirectory, or (perhaps better) symlink to somewhere on your data disk.

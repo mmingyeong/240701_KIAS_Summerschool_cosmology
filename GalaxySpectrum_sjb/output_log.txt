@@ -1,0 +1,51 @@
+----------------------------------------------------------------
+spec-1938-53379-0110.fits processing start
+spec-1938-53379-0110.fits processing start
+spec-1938-53379-0110.fits processing start
+Elapsed time in pPXF: 2.16 s
+[-287.3738257012113, 68.59758918132465, -0.033080628604325396,
+ 0.036391966673299206]
+Best-fitting redshift z = 0.061782 
++/- 0.000037
+spec-1938-53379-0110.fits processing done.
+spec-1938-53379-0110.fits processing done.
+spec-1938-53379-0110.fits processing done.
+
+----------------------------------------------------------------
+spec-1937-53388-0453.fits processing start
+spec-1937-53388-0453.fits processing start
+spec-1937-53388-0453.fits processing start
+Elapsed time in pPXF: 6.36 s
+[1999.9999999999998, 626.2857260776346, 0.3, 0.3]
+Best-fitting redshift z = 0.06991 
++/- 0.00012
+spec-1937-53388-0453.fits processing done.
+spec-1937-53388-0453.fits processing done.
+spec-1937-53388-0453.fits processing done.
+
+----------------------------------------------------------------
+spec-1938-53379-0053.fits processing start
+spec-1938-53379-0053.fits processing start
+spec-1938-53379-0053.fits processing start
+Elapsed time in pPXF: 1.08 s
+[54.93854516183756, 200.63148816466312, 0.0011649257839011842,
+ 0.03662879870294441]
+Best-fitting redshift z = 0.062995 
++/- 0.000015
+spec-1938-53379-0053.fits processing done.
+spec-1938-53379-0053.fits processing done.
+spec-1938-53379-0053.fits processing done.
+
+----------------------------------------------------------------
+spec-1937-53388-0577.fits processing start
+spec-1937-53388-0577.fits processing start
+spec-1937-53388-0577.fits processing start
+Elapsed time in pPXF: 1.22 s
+[172.60787891627206, 189.17152182439995, -0.0028510245940424755,
+ 0.05865095947639672]
+Best-fitting redshift z = 0.063412 
++/- 0.000014
+spec-1937-53388-0577.fits processing done.
+spec-1937-53388-0577.fits processing done.
+spec-1937-53388-0577.fits processing done.
+
